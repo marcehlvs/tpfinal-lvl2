@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "presentacion", "presentacion\presentacion.csproj", "{54910219-E5ED-4C7E-A83E-51381B6651F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{B30AB7A4-7664-4251-949C-9972FDA21E99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{212470DF-3E1C-4DDE-B722-DF173EEC06DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54910219-E5ED-4C7E-A83E-51381B6651F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54910219-E5ED-4C7E-A83E-51381B6651F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54910219-E5ED-4C7E-A83E-51381B6651F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54910219-E5ED-4C7E-A83E-51381B6651F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B30AB7A4-7664-4251-949C-9972FDA21E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30AB7A4-7664-4251-949C-9972FDA21E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30AB7A4-7664-4251-949C-9972FDA21E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30AB7A4-7664-4251-949C-9972FDA21E99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{212470DF-3E1C-4DDE-B722-DF173EEC06DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212470DF-3E1C-4DDE-B722-DF173EEC06DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212470DF-3E1C-4DDE-B722-DF173EEC06DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212470DF-3E1C-4DDE-B722-DF173EEC06DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D571051E-88DE-48A3-913E-5C855DD4535A}
+	EndGlobalSection
+EndGlobal
